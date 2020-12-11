@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left" style='display:flex;align-items:center' >
   <a style='margin:5px' target='_blank' href="https://linkedin.com/in/metehankurucu"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/linkedin.svg"></a>
   <a style='margin:5px' target='_blank' href="mailto:metehankurucu@gmail.com"><img alt="Mail" title="Mail" height="37" width="37" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/mail.svg"></a>
-  <a style='margin:5px' target='_blank' href="https://metehankurucu.com"><img alt="Website" title="Website" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/website.png"></a>
+  <a style='margin:5px' target='_blank' href="https://metehankurucu.com"><img alt="Website" title="Website" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/coding.png"></a>
   
 </p>
 
