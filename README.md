@@ -1,6 +1,5 @@
 ## Hi, I'm Metehan 👋
 
-
 <!--
 **metehankurucu/metehankurucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <a href="https://linkedin.com/in/metehankurucu"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/linkedin.svg"></a>
-  <a href="https://metehankurucu.com"><img alt="Website" title="Website" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/website.svg"></a>
-  <a href="mailto:metehankurucu@gmail.com"><img alt="Mail" title="Mail" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/mail.svg"></a>
+<p align="left" style='display:flex;align-items:center' >
+  <a style='margin:5px' target='_blank' href="https://linkedin.com/in/metehankurucu"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/linkedin.svg"></a>
+  <a style='margin:5px' target='_blank' href="mailto:metehankurucu@gmail.com"><img alt="Mail" title="Mail" height="37" width="37" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/mail.svg"></a>
+  <a style='margin:5px' target='_blank' href="https://metehankurucu.com"><img alt="Website" title="Website" height="32" width="32" src="https://raw.githubusercontent.com/metehankurucu/metehankurucu/main/assets/website.png"></a>
+  
 </p>
 
 <p align="justify">
