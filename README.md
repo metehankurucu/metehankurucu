@@ -1,11 +1,25 @@
-<h1>
-  Hi, I'm Mete.
-</h1>
+### Hi there 👋
 
-I constantly try to improve myself 👨‍💻 in software development by learning technologies, concepts and developing projects. I love learning challenges 🥳 and trying to solve problems 🤔.
+**✨ I am a software engineer constantly learning and developing projects focused on problem-solving.**
 
-<p align="center">
-  <a href="https://linkedin.com/in/metehankurucu">LinkedIn</a> •
-  <a   href="mailto:metehankurucu@gmail.com">Email</a> •
-  <a  href="https://metehankurucu.com">Website</a>
-</p>
+<br>
+
+**📌 My Pins**
+
+- **[Design Patterns](https://github.com/metehankurucu/design-patterns)**: Design patterns implementations with TypeScript.
+- **[Algorithm Solutions](https://github.com/metehankurucu/algo-solutions)**: A collection of algorithm and data structure solutions.
+- **[Data Structures and Algorithms](https://github.com/metehankurucu/data-structures-and-algorithms)**: Data structures and algorithms implementations with several languages.
+- **[React Native Upgrade Helper](https://github.com/metehankurucu/react-native-upgrade-helper)**: An experimental CLI tool to upgrade React Native apps faster.
+- **[WeTransfer CLI](https://github.com/metehankurucu/wetransfer-cli)**: A CLI tool to automate file uploads. 📦
+- **[Firebase Chat](https://github.com/metehankurucu/firebase-chat)**: A small package for one-to-one messaging with Firebase. 📦
+- **[rn-use-input-focus](https://github.com/metehankurucu/rn-use-input-focus)**: A React Native hook that makes it easier to use focus in inputs. 📦
+- **[heroku-set-env](https://github.com/metehankurucu/heroku-set-env)**: Set all config vars from .env in Heroku project using one-command CLI. 📦
+- **[react-native-light-placeholder](https://github.com/metehankurucu/react-native-light-placeholder)**: Lightweight and customizable placeholder component for React Native. 📦
+
+<br>
+
+**✉️ Connect with Me**
+
+- **[Website](https://metehan.dev)**
+- **[LinkedIn](https://linkedin.com/in/metehankurucu)**
+- **[Email](mailto:metehankurucu@gmail.com)**
