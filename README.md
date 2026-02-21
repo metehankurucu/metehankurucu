@@ -7,6 +7,7 @@
 **📌 My Pins**
 
 - **[Litemetrics](https://github.com/metehankurucu/litemetrics)**: Open-source analytics SDK you can integrate into your product. White-label, themeable, multi-tenant.
+- **[revcat](https://github.com/metehankurucu/revcat)**: RevenueCat CLI for AI agents — subscription analytics, MRR tracking, and configuration management.
 - **[Design Patterns](https://github.com/metehankurucu/design-patterns)**: Design patterns implementations with TypeScript.
 - **[Algorithm Solutions](https://github.com/metehankurucu/algo-solutions)**: A collection of algorithm and data structure solutions.
 - **[Data Structures and Algorithms](https://github.com/metehankurucu/data-structures-and-algorithms)**: Data structures and algorithms implementations with several languages.
