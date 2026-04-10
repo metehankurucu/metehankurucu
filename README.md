@@ -6,8 +6,8 @@
 
 **📌 My Pins**
 
-- **[website-v3](https://github.com/metehankurucu/website-v3)**: My personal website. Built with TanStack Start, React 19, Tailwind CSS 4, and deployed on Netlify. → [metehan.dev](https://metehan.dev)
 - **[Litemetrics](https://github.com/metehankurucu/litemetrics)**: Open-source analytics SDK you can integrate into your product. White-label, themeable, multi-tenant.
+- **[website-v3](https://github.com/metehankurucu/website-v3)**: My personal website. Built with TanStack Start, React 19, Tailwind CSS 4.
 - **[revcat](https://github.com/metehankurucu/revcat)**: RevenueCat CLI for AI agents — subscription analytics, MRR tracking, and configuration management.
 - **[Design Patterns](https://github.com/metehankurucu/design-patterns)**: Design patterns implementations with TypeScript.
 - **[Algorithm Solutions](https://github.com/metehankurucu/algo-solutions)**: A collection of algorithm and data structure solutions.
