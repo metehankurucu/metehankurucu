@@ -7,6 +7,7 @@
 **📌 My Pins**
 
 - **[Litemetrics](https://github.com/metehankurucu/litemetrics)**: Open-source analytics SDK you can integrate into your product. White-label, themeable, multi-tenant.
+- **[react-shot](https://github.com/codixus/react-shot)**: Store screenshot SDK for React, built for AI agents. Preview in the browser, export PNGs with one command.
 - **[website-v3](https://github.com/metehankurucu/website-v3)**: My personal website. Built with TanStack Start, React 19, Tailwind CSS 4.
 - **[revcat](https://github.com/metehankurucu/revcat)**: RevenueCat CLI for AI agents — subscription analytics, MRR tracking, and configuration management.
 - **[Design Patterns](https://github.com/metehankurucu/design-patterns)**: Design patterns implementations with TypeScript.
